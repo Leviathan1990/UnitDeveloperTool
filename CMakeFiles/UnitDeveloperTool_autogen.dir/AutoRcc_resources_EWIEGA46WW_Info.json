@@ -1,0 +1,24 @@
+{
+	"BUILD_DIR" : "/home/krisztian/Desktop/Projektek/Outforce_Projects/UnitDeveloperTool/UnitDeveloperTool/UnitDeveloperTool_autogen",
+	"CMAKE_BINARY_DIR" : "/home/krisztian/Desktop/Projektek/Outforce_Projects/UnitDeveloperTool/UnitDeveloperTool",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/krisztian/Desktop/Projektek/Outforce_Projects/UnitDeveloperTool/UnitDeveloperTool",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/krisztian/Desktop/Projektek/Outforce_Projects/UnitDeveloperTool/UnitDeveloperTool",
+	"CMAKE_SOURCE_DIR" : "/home/krisztian/Desktop/Projektek/Outforce_Projects/UnitDeveloperTool/UnitDeveloperTool",
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/krisztian/Desktop/Projektek/Outforce_Projects/UnitDeveloperTool/UnitDeveloperTool/UnitDeveloperTool_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/krisztian/Desktop/Projektek/Outforce_Projects/UnitDeveloperTool/UnitDeveloperTool/icon/jorden.ico",
+		"/home/krisztian/Desktop/Projektek/Outforce_Projects/UnitDeveloperTool/UnitDeveloperTool/icon/jorden.png"
+	],
+	"LOCK_FILE" : "/home/krisztian/Desktop/Projektek/Outforce_Projects/UnitDeveloperTool/UnitDeveloperTool/CMakeFiles/UnitDeveloperTool_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/opt/Qt/6.10.1/gcc_64/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/krisztian/Desktop/Projektek/Outforce_Projects/UnitDeveloperTool/UnitDeveloperTool/CMakeFiles/UnitDeveloperTool_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/krisztian/Desktop/Projektek/Outforce_Projects/UnitDeveloperTool/UnitDeveloperTool/resources.qrc",
+	"VERBOSITY" : 0
+}

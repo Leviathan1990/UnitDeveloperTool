@@ -1,0 +1,9 @@
+/home/krisztian/Desktop/Projektek/Outforce_Projects/UnitDeveloperTool/UnitDeveloperTool/CMakeFiles/UnitDeveloperTool.dir
+/home/krisztian/Desktop/Projektek/Outforce_Projects/UnitDeveloperTool/UnitDeveloperTool/CMakeFiles/edit_cache.dir
+/home/krisztian/Desktop/Projektek/Outforce_Projects/UnitDeveloperTool/UnitDeveloperTool/CMakeFiles/rebuild_cache.dir
+/home/krisztian/Desktop/Projektek/Outforce_Projects/UnitDeveloperTool/UnitDeveloperTool/CMakeFiles/list_install_components.dir
+/home/krisztian/Desktop/Projektek/Outforce_Projects/UnitDeveloperTool/UnitDeveloperTool/CMakeFiles/install.dir
+/home/krisztian/Desktop/Projektek/Outforce_Projects/UnitDeveloperTool/UnitDeveloperTool/CMakeFiles/install/local.dir
+/home/krisztian/Desktop/Projektek/Outforce_Projects/UnitDeveloperTool/UnitDeveloperTool/CMakeFiles/install/strip.dir
+/home/krisztian/Desktop/Projektek/Outforce_Projects/UnitDeveloperTool/UnitDeveloperTool/CMakeFiles/UnitDeveloperTool_autogen_timestamp_deps.dir
+/home/krisztian/Desktop/Projektek/Outforce_Projects/UnitDeveloperTool/UnitDeveloperTool/CMakeFiles/UnitDeveloperTool_autogen.dir
